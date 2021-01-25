@@ -1,0 +1,37 @@
+.categoriesBar {
+  height: 64px;
+  background-color: #f5f4f3;
+  padding: 16px 120px;
+
+  .categoriesTitle {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    height: 32px;
+
+      .bookCateBtn {
+        height: 100px;
+
+        .btnClicked, .btnNonClicked {
+          padding: 10px 15px;
+          border-radius: 100px;
+          border: 1px solid #242424;
+        }
+
+        .btnClicked {
+          background-color: #242424;
+          color: white;
+        }
+  
+        .btnNonClicked {
+          background-color: transparent;
+          color: #242424;
+        }
+
+        .span {
+          font-weight: 800;
+          font-size: 14px;
+        }
+      }
+    }
+  }

@@ -1,0 +1,36 @@
+.books {
+
+  .categoryName {
+    margin: 40px 0;
+    font-size: 20px;
+    font-weight: 900;
+    color: #242424;
+  }
+
+  .bookItemList {
+    width: 1200px;
+
+    .slick-arrow {
+      display: block;
+    }
+
+    .slick-prev {
+      left: 10px;
+      z-index: 1;
+
+      &:before {
+        content: url('../../Components/AboutBooks/img/prevArrow01.png')
+      }
+    }
+
+    .slick-next {
+      right: 10px;
+      z-index: 1;
+
+      &:before {
+        content: url('../../Components/AboutBooks/img/nextArrow01.png')
+      }
+    }
+  }
+
+}

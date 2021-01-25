@@ -1,0 +1,64 @@
+{
+    "wordsData" : [
+      {
+        "id": 1,
+        "rank": 1,
+        "bookTitle": "요정을 믿지 않는 어른들을 위한 요정 이야기",
+        "author": "윌리엄 버틀러 예이츠 (지은이), 김혜연 (옮긴이)"
+      },
+      {
+        "id": 2,
+        "rank": 2,
+        "bookTitle": "달러구트 꿈 백화점",
+        "author": "이미예"
+      },
+      {
+        "id": 3,
+        "rank": 3,
+        "bookTitle": "겨울장면",
+        "author": "김엄지"
+      },
+      {
+        "id": 4,
+        "rank": 4,
+        "bookTitle": "지구 끝의 온실",
+        "author": "김초엽"
+      },
+            {
+        "id": 5,
+        "rank": 5,
+        "bookTitle": "우리가 빛의 속도로 갈 수 없다면",
+        "author": "김초엽"
+      },
+      {
+        "id": 6,
+        "rank": 6,
+        "bookTitle": "블랙 쇼맨과 이름 없는 마을의 살인",
+        "author": "히가시노 게이고 (지은이), 최고은 (옮긴이)"
+      },
+      {
+        "id": 7,
+        "rank": 7,
+        "bookTitle": "창문 넘어 도망친 100세 노인",
+        "author": "요나스 요나손 / 임호경"
+      },
+      {
+        "id": 8,
+        "rank": 8,
+        "bookTitle": "수플레",
+        "author": "애슬리 페커"
+      },
+      {
+        "id": 9,
+        "rank": 9,
+        "bookTitle": "우리의 정류장과 필사의 밤",
+        "author": "김이설"
+      },
+            {
+        "id": 10,
+        "rank": 10,
+        "bookTitle": "진실에 갇힌 남자",
+        "author": "데이비드 발다치"
+      }
+  ]
+}

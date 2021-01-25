@@ -1,0 +1,37 @@
+$animation-duration: 350ms;
+
+.centerBookItem {
+  width: 160px;
+  height: 224px;
+
+  .centerBookImgData {
+    width: 100%;
+    height: 100%;
+
+    .centerThumbImg {
+      width: 100%;
+      height: 100%;
+      opacity: 0.7;
+    }
+  }
+
+  .centerBookMetaData {
+    margin-top: 20px;
+    text-align: center;
+
+    .centerBookTitle {
+      display: none;
+      font-size: 18px;
+      font-weight: 600;
+      color: snow;
+    }
+
+    .centerBookAuthor {
+      margin-top: 10px;
+      display: none;
+      font-size: 14px;
+      font-weight: 500;
+      color: snow;
+    }
+  }
+}

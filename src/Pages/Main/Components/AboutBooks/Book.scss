@@ -1,0 +1,42 @@
+$animation-duration: 350ms;
+
+.bookItem {
+  width: 240px;
+  height: 400px;
+  padding: 0 5px;
+
+  .bookImgData {
+    height: 335px;
+    overflow: hidden;
+
+    .thumbImg {
+      width: 100%;
+      height: 100%;
+    }
+  
+    .thumbImg:hover {
+      transition: $animation-duration;
+      transform: scale(1.1);
+    }
+  }
+
+
+  .bookMetaData {
+    padding: 10px 10px;
+    width: 100%;
+    height: 70px;
+    background-color: #242424;
+
+    .title {
+      font-size: 16px;
+      color: #a5a5a5;
+      font-weight: 700;
+    }
+
+    .author {
+      padding-top: 5px;
+      font-size: 12px;
+      color: #6f6f6f;
+    }
+  }
+}

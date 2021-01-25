@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import NavbarMenu from './NavbarMenu/NavbarMenu';
-import theme from '../../Styles/Theme';
+import theme,{flexBetween, flexDefault} from '../../Styles/Theme';
 
 const Navbar = () => {
   return (

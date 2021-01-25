@@ -1,0 +1,74 @@
+{
+    "bookData" : [
+      {
+        "id": 1,
+        "categoryTitle": "일반소설",
+        "bookTitle": "어떤 여자가 왔었다",
+        "bookCoverImg": "https://img.millie.co.kr/400x/service/cover/179490611/3b98862c45994239912806fd8cb28fae.jpg",
+        "bookAuthor": "조산 라 밸리 (지은이), 현혜진(옮긴이)"
+      },
+      {
+        "id": 2,
+        "categoryTitle": "일반소설",
+        "bookTitle": "아낌없이 뺏는 사랑",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490591/794ed8c4b83a4fb28aa85a3508f87b75.jpg",
+        "bookAuthor": "피터 스완슨 (지은이), 노진선 (옮긴이)"
+      },
+      {
+        "id": 3,
+        "categoryTitle": "일반소설",
+        "bookTitle": "살",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490588/d9fe7604ee8547a6b99df7e687f87464.jpg",
+        "bookAuthor": "박해로 (지은이)"
+      },
+      {
+        "id": 4,
+        "categoryTitle": "판타지/무협",
+        "bookTitle": "혹등고래 모모의 여행",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490600/3793c7f12efc456fad6e45f83afd30fb.jpg",
+        "bookAuthor": "류커샹 (지은이), 하은지 (옮긴이)"
+      },
+      {
+        "id": 5,
+        "categoryTitle": "판타지/무협",
+        "bookTitle": "작렬지",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490590/e25bb6b3409c40669f6d746cc7b8480b.jpg",
+        "bookAuthor": "옌롄커 (지은이), 문현선 (옮긴이)"
+      },
+      {
+        "id": 6,
+        "categoryTitle": "판타지/무협",
+        "bookTitle": "노르딕 환상 동화",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490448/c0a6b423f4af4f3eb7ff221678fa4416.jpg",
+        "bookAuthor": "울라 타이넬 (그림), 권기대 (옮긴이)"
+      },
+      {
+        "id": 7,
+        "categoryTitle": "로맨스/BL",
+        "bookTitle": "아홉 시에 뜨는 달",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490610/de5a57585bc2443cbc74932a5648cfec.jpg",
+        "bookAuthor": "데보라 엘리스 (지은이), 김미선 (옮긴이)"
+      },
+      {
+        "id": 8,
+        "categoryTitle": "로맨스/BL",
+        "bookTitle": "엔드 바 텐드",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490589/c7558fc370ec486fb531af3fa256c452.jpg",
+        "bookAuthor": "해이수 (지은이)"
+      },
+      {
+        "id": 9,
+        "categoryTitle": "로맨스/BL",
+        "bookTitle": "달러구트 꿈 백화점",
+        "bookCoverImg": "https://img.millie.co.kr/400x/service/cover/179467030/c3a49e6986164b85be146013cebb62eb.jpg",
+        "bookAuthor": "이미예 (지은이)"
+      },
+      {
+        "id": 10,
+        "categoryTitle": "만화",
+        "bookTitle": "빛의 마녀",
+        "bookCoverImg": "https://img.millie.co.kr/200x/service/cover/179490587/42e9943d342745808cdb0ef61e4bff0f.jpg",
+        "bookAuthor": "김하서"
+      }
+  ]
+}
