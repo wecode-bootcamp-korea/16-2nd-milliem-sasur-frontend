@@ -1,0 +1,48 @@
+$animation-duration: 350ms;
+
+.centerBooksList {
+  width: 1280px;
+  height: 450px;
+  background-color: slategrey;
+
+    .slick-slide {
+      display: flex;
+      justify-content: center;
+      padding: 110px 100px;
+    }
+
+    .slick-arrow {
+      display: block;
+      padding-top: 100px;
+    }
+
+    .slick-prev {
+      left: 20px;
+      padding-bottom: 150px;
+      z-index: 1;
+
+      &:before {
+        content: url('../../Components/AboutBooks/img/prevArrow02.png')
+      }
+    }
+
+    .slick-next {
+      right: 50px;
+      padding-bottom: 150px;
+      z-index: 1;
+
+      &:before {
+        content: url('../../Components/AboutBooks/img/nextArrow02.png')
+      }
+    }
+
+    .slick-slide.slick-center img {
+      transform: scale(1.2);
+      transform-origin: bottom;
+      opacity: 1.0;
+    }
+
+    .slick-slide.slick-center span {
+      display: block;
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "bookCategory" : [
+      {
+        "id": 1,
+        "categoryTitle": "일반소설"
+      },
+      {
+        "id": 2,
+        "categoryTitle": "판타지/무협"
+      },
+      {
+        "id": 3,
+        "categoryTitle": "로맨스/BL"
+      },
+      {
+        "id": 4,
+        "categoryTitle": "만화"
+      }
+  ]
+}

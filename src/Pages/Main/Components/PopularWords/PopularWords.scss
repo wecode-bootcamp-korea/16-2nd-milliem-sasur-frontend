@@ -1,0 +1,86 @@
+.popularWordsBar {
+  display: flex;
+  justify-content: space-between;
+  width: 1280px;
+  height: 67px;
+  border-bottom: 1px solid #dfdfdf;
+  padding: 0 30px;
+  }
+
+  .iconText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 100%;
+
+    .fa-chart-line {
+      font-size: 24px;
+      font-weight: 300;
+      margin-right: 10px;
+      color: #111
+    }
+
+    span {
+      font-size: 12px;
+      font-weight: 900;
+    }
+  }
+
+  .popularSection {
+    display: flex;
+    align-items: center;
+    display: inline-flexbox;
+    width: 1000px;
+    height: 100%;
+    padding-bottom: 7px;
+
+    .slick-next:before, .slick-prev:before {
+      display: none;
+    }
+
+    .rankWithWord {
+
+      .rank {
+        font-size: 20px;
+        font-weight: bold;
+        color: #111;
+        padding: 0 10px;
+      }
+  
+      .word {
+        color: #6f6f6f;
+        font-weight: 500;
+      }
+    }
+  }
+
+  .showAllWordsBtnSection {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 100px;
+    width: 80px;
+    height: 100%;
+
+    .boardActiveBtn {
+
+      .upArrow {
+        .fa-chevron-down {
+          transform: rotate(180deg);
+        }
+      }
+    }
+
+    .fa-chevron-down {
+      color: #6f6f6f;
+    }
+  }
+
+.showBoard {
+  display: block;
+}
+
+.hiddenBoard {
+  display: none;
+}

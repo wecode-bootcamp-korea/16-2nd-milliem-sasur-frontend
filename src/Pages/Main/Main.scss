@@ -1,0 +1,23 @@
+.main {
+
+  .mainSlide {
+    display: flex;
+    justify-content: center;
+  }
+
+  .papularWord {
+    display: flex;
+    justify-content: center;
+  }
+
+  .contentSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+  }
+
+  .footerSection {
+    margin-bottom: 50px;
+  }
+}
