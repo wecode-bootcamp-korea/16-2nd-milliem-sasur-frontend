@@ -22,6 +22,7 @@ export default Footer;
 
 const FooterWrap = styled.footer`
   background-color: ${theme.white};
+  padding-bottom:25px;
 `;
 
 const FooterContentWrap = styled.div`

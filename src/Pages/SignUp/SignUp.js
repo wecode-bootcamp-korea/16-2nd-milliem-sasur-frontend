@@ -51,7 +51,7 @@ class SignUp extends Component {
       <SignUpWarpper>
       <SignUpCenterBox>
         <h1><img src="https://d3udu241ivsax2.cloudfront.net/v3/images/login/join-title.e7af800a6945569604c75840d03c9447.png" alt="milliem" /></h1>
-        <Link to="/phone-auth" ><SignUpBtn type="button">휴대폰 번호 로그인</SignUpBtn></Link>
+        <Link to="/phone-auth" ><SignUpBtn type="button">휴대폰 번호 시작하기</SignUpBtn></Link>
         <img alt="or" src="/images/or.png" width="240px"/>
         <SocialButtons>
           <button 
@@ -62,7 +62,7 @@ class SignUp extends Component {
           <button><img alt="apple" src="/images/apple-btn.svg" /></button>
         </SocialButtons>
         <SignInLinkWrapper>
-          <Link to="/signup"><SignInLink>이미 회원이신가요? 로그인</SignInLink></Link>
+          <Link to="/signin"><SignInLink>이미 회원이신가요? 로그인</SignInLink></Link>
         </SignInLinkWrapper>
       </SignUpCenterBox>
     </SignUpWarpper>

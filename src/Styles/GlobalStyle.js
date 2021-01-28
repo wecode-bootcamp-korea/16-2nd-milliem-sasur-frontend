@@ -1,17 +1,18 @@
 import { createGlobalStyle } from 'styled-components';
 import reset from 'styled-reset';
 
-
 const GlobalStyles = createGlobalStyle`
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
   ${reset}
+  body {
+    font-family: 'Noto Sans KR', 'Noto Serif KR', 'sans-serif', 'serif';
+  font-size:13px;
+  overflow-x: hidden;
+  }
   *{
     box-sizing: border-box;
   }
-  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap");
-  body {
-  font-family: 'Noto Sans KR', sans-serif;
-  overflow-x: hidden;
-  }
+
   html, body, div, span, applet, object, iframe,
   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
   a, abbr, acronym, address, big, cite, code,
@@ -24,7 +25,7 @@ const GlobalStyles = createGlobalStyle`
   article, aside, canvas, details, embed,
   figure, figcaption, footer, header, hgroup,
   menu, nav, output, ruby, section, summary,
-  time, mark, audio, video {
+  time, mark, audio, video,button {
     margin: 0;
     padding: 0;
     border: 0;
@@ -53,7 +54,6 @@ const GlobalStyles = createGlobalStyle`
   
   a{
     text-decoration: none;
-  
   }
   
   
