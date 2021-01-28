@@ -22,6 +22,7 @@ export default NavbarMenu;
 
 const List = styled.ul`
   ${flexDefault};
+  
   li {
     margin: 0 25px;
 
