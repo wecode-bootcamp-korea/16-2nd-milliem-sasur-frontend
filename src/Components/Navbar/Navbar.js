@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import NavbarMenu from './NavbarMenu/NavbarMenu';
+import theme from '../../Styles/Theme';
 
 const Navbar = () => {
   return (
@@ -9,7 +10,7 @@ const Navbar = () => {
       <Nav>
         <Wrap>
           <Link to='/' className='logo'>
-            <img src='/images/logo.png' alt='밀림의사서 로고입니다.' />
+            <img src='/images/logo.png' alt='밀림의사서 로고입니다' />
           </Link>
           <NavbarMenu />
           <UserMenu>

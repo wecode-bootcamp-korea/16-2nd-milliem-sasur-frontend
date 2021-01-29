@@ -4,10 +4,11 @@ import Routes from './Routes';
 import GlobalStyles from './Styles/GlobalStyle';
 
 import '@fortawesome/fontawesome-free/js/all.js';
+import GlobalStyles from './Styles/GlobalStyle';
 
 ReactDOM.render(
   <React.StrictMode>
-    <GlobalStyles/>
+    <GlobalStyles />
     <Routes />
   </React.StrictMode>,
   document.getElementById('root')
