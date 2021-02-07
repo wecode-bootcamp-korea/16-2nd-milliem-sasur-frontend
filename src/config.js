@@ -1,7 +1,7 @@
 export const SERVER_URL = "http://52.79.226.82:8000";
 
 export const BOOK_LIST = `${SERVER_URL}/book?category_id=`
-const SERVER_API = `http://10.58.5.76:8000`;
+const SERVER_API = `http://10.58.0.217:8000`;
 
 export const SEND_SMS_API = `${SERVER_API}/users/sendsms`;
 export const SMS_AUTH_API = `${SERVER_API}/users/verification`;
