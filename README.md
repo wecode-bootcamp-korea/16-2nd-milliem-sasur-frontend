@@ -38,7 +38,7 @@
 * 김희진: Signin,Signup, Kakao Login, 휴대폰인증 구현
 * 유재현: Header,Footer,Landing Page, Search Page, Detail Page, Json-Server,
 * 이동규: Beckend 휴대폰 로그인, 회원가입, 소셜로그인, 내서재 구현중
-* 이혜성: Main 페이지 데이터 구현
+* 이혜성: 
 ## 이미지 출처
 * https://unsplash.com/
 * https://pixabay.com/ko/
